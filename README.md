@@ -19,10 +19,6 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/discord/1009189978087100486?color=blue&label=Discord&logo=Discord&logoColor=%5C&style=for-the-badge">
-</p>
-
-<p align="center">
   Telegram server: https://t.me/turcoflex
  </p>
 
@@ -110,7 +106,7 @@
 
 ### 📸 〢 Screenshots
 
-<img title="" src="https://github.com/AliTefeli02/TurkoRat/blob/doener/screenshots/1.png?raw=true" alt="" width="450"><img title="" src="https://github.com/AliTefeli02/TurkoRat/blob/doener/screenshots/2.png?raw=true" alt="" width="439">![](https://github.com/AliTefeli02/TurkoRat/blob/doener/screenshots/3.png?raw=true)<img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="439">
+<img title="" src="https://github.com/AliTefeli02/TurkoRat/blob/main/screenshots/1.png?raw=true" alt="" width="450"><img title="" src="https://github.com/AliTefeli02/TurkoRat/blob/main/screenshots/2.png?raw=true" alt="" width="439">![](https://github.com/AliTefeli02/TurkoRat/blob/main/screenshots/3.png?raw=true)<img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="439">
 
 <a id="todo"></a>
 
